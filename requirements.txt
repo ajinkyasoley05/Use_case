@@ -1,5 +1,3 @@
-dotenv
-getpass
 langchain==0.1.17
 langchain-chroma==0.1.1
 langchain-community==0.0.36
