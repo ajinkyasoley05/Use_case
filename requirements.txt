@@ -1,8 +1,6 @@
-langchain
 langchain_community
 langchain-openai
 langchain_chroma
 langchain_text_splitters
-langchain_core
 dotenv
 getpass
